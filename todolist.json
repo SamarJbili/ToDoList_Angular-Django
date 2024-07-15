@@ -1,0 +1,42 @@
+{
+  "Staff": [
+    {
+      "id": 1,
+      "mail": "superadmin@gmail.com",
+      "password": "superadmin",
+      "type": "super admin"
+    },
+    {
+      "id": 2,
+      "mail": "admin@gmail.com",
+      "password": "adminadmin",
+      "type": "admin"
+    },
+    {
+      "id": 3,
+      "mail": "user@gmail.com",
+      "password": "useruser",
+      "type": "user"
+    },
+    {
+      "email": "jbili8395@gmail.com",
+      "password": "jbilisamar",
+      "type":"",
+      "id": 4
+    }
+  ],
+  "Projects": [
+    {
+      "id": 0,
+      "name": ""
+    }
+  ],
+  "comptes": [
+    {
+      "id": 0,
+      "name": "",
+      "adress": "",
+      "tel": 0
+    }
+  ]
+}
